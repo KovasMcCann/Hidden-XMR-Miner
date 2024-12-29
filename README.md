@@ -8,8 +8,7 @@
 <code>** Educational Purposes Only **</code>
 
 ## Idea
-A simple addition to XMrig that allows XMrig to mask it self and run on startup. 
-
+A simple addition to XMrig that allows XMrig to mask it self and run on startup.  This program is designed to run on USB.
 ## Usage
 ````
 Start.bat
