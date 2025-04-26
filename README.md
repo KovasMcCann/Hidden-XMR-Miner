@@ -15,5 +15,4 @@ Start.bat
 - Built to export files on to victim computer from a USB
 Mine.ps1
 AggregatorHost.ps1
-
 ```
